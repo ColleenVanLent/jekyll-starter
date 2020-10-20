@@ -1,0 +1,9 @@
+# Site settings
+title: Jekyll Starter
+description: > 
+  Learn to code!
+baseurl: "/jekyll-starter"
+github_username:  colleenvanlent
+
+# Build settings
+markdown: kramdown
